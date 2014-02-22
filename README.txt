@@ -9,6 +9,8 @@ an Atom feed.
   you into Google Plus.
 * Install from PyPI with ``pip install ws.plusfeed``
 * Run ``plusfeed USER-ID YOUR-API-KEY`` to create an atom feed.
+  (The USER-ID can be found by clicking around on Google Plus until you find
+  an URL that looks like ``https://plus.google.com/117962666888533781522``).
 
 Example to get the `CyanogenMod`_ feed if you put your API key into
 ``~/.pluskey``::
