@@ -11,7 +11,7 @@ def project_path(*names):
 
 setup(
     name='ws.plusfeed',
-    version='1.1',
+    version='1.2.dev0',
 
     install_requires=[
         'setuptools',
